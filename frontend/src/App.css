@@ -1,0 +1,47 @@
+
+
+.btn-primary{
+  margin-left: 4px;
+  background-color: transparent;
+  border-color: #C09A03;
+}
+
+.btn-primary:hover{
+  background-color: #C09A03;
+}
+
+.logo{
+  width: 20%;
+  margin-left: 10px;
+}
+.logoName{
+  color: #C09A03;
+}
+
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.text-link:hover {
+  color: #C09A03;
+  text-decoration: inherit;
+}
+
+.navbtns{
+  width: 80%;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10px;
+}
+
+.form-newpost{
+  width: 70%;
+  margin-left: 150px;
+
+}
+
+.form-newpost .btns{
+margin-left: 45%;
+margin-top: 10px;
+}
